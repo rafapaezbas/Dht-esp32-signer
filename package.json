@@ -1,0 +1,17 @@
+{
+  "name": "dht-esp32-signer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/dht": "^6.0.1",
+    "noise-curve-ed": "^1.0.4",
+    "serial-signer": "^1.0.1",
+    "sodium-native": "^3.3.0"
+  }
+}
